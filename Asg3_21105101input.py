@@ -203,6 +203,8 @@ while n<number-2:
     n=n+1
     sum+=a_n
 print(f"Sum of total {number} terms of sequence is {sum}")
+avg = sum/number
+print('Average of fibonacci series is', avg)
 print("END")
 
 
