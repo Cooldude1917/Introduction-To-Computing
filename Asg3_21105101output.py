@@ -68,6 +68,7 @@ Fibonnaci sequence with 6 terms
 3
 5
 Sum of total 6 terms of sequence is 12
+Average of fibonacci series is 2.0
 END
 
                    Question_8
